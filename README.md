@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadhith-Sakthivel
 - 👀 I’m interested in tech stuffs
-- 🌱 I’m currently persuing my UG in Nehru Arts and Science College.
+- 🌱 I’m currently persuing my UG in Nehru Arts and Science College, Coimbatore, TamilNadu, India.
 - 📫 How to reach me - aadhith.ad@gmail.com
 
 <!---
